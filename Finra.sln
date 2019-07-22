@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finra.Web", "Finra.Web\Finra.Web.csproj", "{770AC82F-B05B-411E-BA30-4764FC5CADBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finra.Tests", "Finra.Tests\Finra.Tests.csproj", "{F16F7692-8A3C-46DC-A974-739798BC9071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finra.Core", "Finra.Core\Finra.Core.csproj", "{BC4A5E2B-0241-49FD-9841-97CB82D9ADB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770AC82F-B05B-411E-BA30-4764FC5CADBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770AC82F-B05B-411E-BA30-4764FC5CADBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770AC82F-B05B-411E-BA30-4764FC5CADBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770AC82F-B05B-411E-BA30-4764FC5CADBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16F7692-8A3C-46DC-A974-739798BC9071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16F7692-8A3C-46DC-A974-739798BC9071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16F7692-8A3C-46DC-A974-739798BC9071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16F7692-8A3C-46DC-A974-739798BC9071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4A5E2B-0241-49FD-9841-97CB82D9ADB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4A5E2B-0241-49FD-9841-97CB82D9ADB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4A5E2B-0241-49FD-9841-97CB82D9ADB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4A5E2B-0241-49FD-9841-97CB82D9ADB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

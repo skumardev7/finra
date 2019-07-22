@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>
+     Alphanumeric Generator
+</h2>
+<br/>
+<h4>Input Number Provided is 2403866106</h4>
+
+<h4>Output is below</h4>
+<br/>
+@if (ViewBag.Alphanumerics != null)
+{
+    <h4>Total Count - @ViewBag.TotalCount</h4>
+    
+    <label>List Of Items in the first page are:</label>
+    <br/>
+    foreach (var item in ViewBag.AlphaNumerics)
+    {
+        <label>@item</label>
+        <br />
+    }
+}
+else
+{
+    <label>No records found</label>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

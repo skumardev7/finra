@@ -1,0 +1,8 @@
+C:\Code\Finra\Finra.Tests\bin\Debug\Finra.Tests.dll
+C:\Code\Finra\Finra.Tests\bin\Debug\Finra.Tests.pdb
+C:\Code\Finra\Finra.Tests\bin\Debug\Finra.Core.dll
+C:\Code\Finra\Finra.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\Finra\Finra.Tests\bin\Debug\Finra.Core.pdb
+C:\Code\Finra\Finra.Tests\obj\Debug\Finra.Tests.csprojResolveAssemblyReference.cache
+C:\Code\Finra\Finra.Tests\obj\Debug\Finra.Tests.dll
+C:\Code\Finra\Finra.Tests\obj\Debug\Finra.Tests.pdb

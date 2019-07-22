@@ -1,0 +1,5 @@
+C:\Code\Finra\Finra.Core\bin\Debug\Finra.Core.dll
+C:\Code\Finra\Finra.Core\bin\Debug\Finra.Core.pdb
+C:\Code\Finra\Finra.Core\obj\Debug\Finra.Core.csprojResolveAssemblyReference.cache
+C:\Code\Finra\Finra.Core\obj\Debug\Finra.Core.dll
+C:\Code\Finra\Finra.Core\obj\Debug\Finra.Core.pdb
